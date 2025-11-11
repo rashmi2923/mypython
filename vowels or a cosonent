@@ -1,0 +1,7 @@
+alpha=str(input("enter the alphabet"))
+if alpha in "aieou":
+  print("the alphabet in vowel")
+else:
+  print("the alphabet is a constant")
+
+  
