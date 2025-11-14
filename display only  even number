@@ -1,0 +1,6 @@
+x=[1,2,3,4,5]
+even_number=[]
+for num in x:
+  if num%2==0:
+    even_number.append(num)
+print("even numbers:",even_number)
